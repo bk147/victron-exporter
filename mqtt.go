@@ -9,7 +9,7 @@ import (
 	"strings"
 	"time"
 
-	mqtt "github.com/eclipse/paho.mqtt.golang"
+	mqtt "github.com/eclipse/paho.mqtt.golang" v2.3.4
 	log "github.com/sirupsen/logrus"
 )
 
